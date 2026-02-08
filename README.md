@@ -8,8 +8,8 @@
 
 ## Features
 - Input: YouTube URL or video file upload
-- Difficulty: **Easy** | **Medium** | **Hard** (button selector)
-- Quiz length: 5, 10, 15, 20, or 25 questions (dropdown)
+- Difficulty: **Easy** | **Medium** | **Hard** (input field)
+- Quiz length: 5, 10, 15, 20, or 25 questions (input field)
 - Generates: concise summary + key takeaways
 - Interactive quiz — one question at a time
 - Instant feedback: only "Correct! 🎉" or "Wrong! ❌"
@@ -17,8 +17,8 @@
   - Score + motivational message
   - Detailed explanations & timestamps **only for wrong answers**
   - **Focus Areas** — up to 3 key video time ranges to rewatch
-  - **Deepen Your Knowledge** — curated similar videos & resources (working links)
-- Sticky modern header + "Made with ❤️ using Google Opal" footer
+  - **Deepen Your Knowledge** — curated similar videos & resources
+- Modern Clean Design + "Made with ❤️ using Opal" footer
 
 ## Built With
 - Google Opal (natural language → visual AI workflows)
